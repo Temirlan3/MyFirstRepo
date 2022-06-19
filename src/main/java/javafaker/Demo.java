@@ -19,7 +19,6 @@ public class Demo {
         return "Hello my name is " + faker.name().firstName();
     }
 
-
     public static String generateFakeLastName(){
         return "Surname is: " + faker.name().lastName();
     }
