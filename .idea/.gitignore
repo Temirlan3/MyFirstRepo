@@ -1,6 +1,6 @@
 ./misc.xml
-./compiler.xml
-./misc.xml
+/compiler.xml
+/test/
 
 
 
