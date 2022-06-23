@@ -1,6 +1,8 @@
-./misc.xml
-/compiler.xml
-/test/
+compiler.xml
+jarRepositories.xml
+misc.xml
+vcs.xml
+workspace.xml
 
 
 
